@@ -1,2 +1,2 @@
-# documentation
+# Documentation
 PhotoVision and GTV Documentation
